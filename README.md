@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bazaaaaaaaar
+- 👋 Hi, I’m @Know Your Infra
 - 👀 I’m interested in Cloud Computing, Security, and Computer Science globally !
 - 🌱 I love learning new things !!
 - 📫 Check out my Youtube channel : https://www.youtube.com/channel/UCb-gsM0ijMjrzyZ9gSkckHA
